@@ -14,3 +14,11 @@ Please, refer to [Contributing Guide](https://github.com/os-autoinst/os-autoinst
 
 Most files are minimal copyleft, but some more complex tests are GPL. So please
 check the license within the files.
+
+#  To use Kickstart for Automate Installation:
+
+    1.Create a Kickstart file.
+    2.Make the Kickstart file available on removable media, a hard drive or a network location.
+    3.Create boot media, which will be used to begin the installation.
+    4.Make the installation source available.
+    5.Start the Kickstart installation. 
